@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Tyler. I'm a Software Engineer working in the trading industry who loves exploring new tech and industries.
+I'm Tyler. I'm a Software Engineer working in the trading industry who loves exploring new tech.
 
     🔭 I’m currently learning Rust, Graphics & GPU programming, and game development.
     🌱 My interests are far and wide. I love physics, math, biology, and AI. Pretty much all things science.

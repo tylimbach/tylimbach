@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi, I'm Tyler 👋
 
-I'm Tyler. I'm a Software Engineer working in the trading industry.
+I'm a Software Engineer working in the trading industry.
 
 About me:
 - Optimization is my obsession: of both code and workflows.

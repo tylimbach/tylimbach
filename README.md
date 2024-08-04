@@ -12,4 +12,4 @@ About me:
 What I'm Learning:
 - Rust
 - GPU Programming
-- Game development
+- Game & Graphics Engines

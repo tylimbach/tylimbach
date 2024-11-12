@@ -13,3 +13,4 @@ What I'm Learning:
 - Rust
 - GPU Programming
 - Game & Graphics Engines
+- Blogging

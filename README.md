@@ -12,5 +12,6 @@ About me:
 What I'm Learning:
 - Rust
 - GPU Programming
+- AI & ML
 - Game & Graphics Engines
 - Blogging
